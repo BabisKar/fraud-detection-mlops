@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+.env
+
+# Data & models (big files, use DVC or cloud instead)
+data/
+models/
+mlruns/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE/OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# IDE configs
+.idea/
